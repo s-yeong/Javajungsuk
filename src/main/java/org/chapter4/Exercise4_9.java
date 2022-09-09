@@ -1,6 +1,6 @@
 package org.chapter4;
 
-public class Excersie4_9 {
+public class Exercise4_9 {
 
     // 각 자리 합 더하기
     public static void main(String[] args) {

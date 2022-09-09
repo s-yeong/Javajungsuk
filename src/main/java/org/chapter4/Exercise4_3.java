@@ -1,6 +1,6 @@
 package org.chapter4;
 
-public class Excersie4_3 {
+public class Exercise4_3 {
 
     // 1 + (1+2) + (1+2+3) + (1+2+3+4) + (1+2+3+4+5) + (1+2+3+4+5+6) ..
     public static void main(String[] args) {

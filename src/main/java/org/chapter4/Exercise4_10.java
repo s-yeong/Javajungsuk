@@ -2,7 +2,7 @@ package org.chapter4;
 
 import java.util.Scanner;
 
-public class Excersie4_10 {
+public class Exercise4_10 {
 
     // 숫자 맞히기 게임
     public static void main(String[] args) {
