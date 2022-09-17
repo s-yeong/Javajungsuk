@@ -20,7 +20,7 @@ import java.util.*;
     (검색한 값과 일치하는 요소들이 여러개 있다면, 어떤 것의 위치가 반환될지는알 수 없다.)
     이진 검색은 10을 찾는다 했을 때 반을 잘라서 계속 비교하는 방식이다.
 
-    - 배열읠 List로 변환  => Arrays.asList(Object... a) - 가변 매개변수(갯수가 정해지지X)
+    - 배열을 List로 변환  => Arrays.asList(Object... a) - 가변 매개변수(갯수가 정해지지X)
     -> 읽기 전용이기에 크기 변경 불가
     -> 크기 변경 하라면 new ArrayLsit(Arrays.asList(1,2,3,4,5))    => 새로운 ArrayList를 만든다
  */
